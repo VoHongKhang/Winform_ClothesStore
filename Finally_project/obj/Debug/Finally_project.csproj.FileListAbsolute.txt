@@ -1,0 +1,348 @@
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project\Code\Winform\Finally_project\Finally_project\bin\Debug\Finally_project.exe.config
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project\Code\Winform\Finally_project\Finally_project\bin\Debug\Finally_project.exe
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project\Code\Winform\Finally_project\Finally_project\bin\Debug\Finally_project.pdb
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project\Code\Winform\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.AssemblyReference.cache
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project\Code\Winform\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.SuggestedBindingRedirects.cache
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project\Code\Winform\Finally_project\Finally_project\obj\Debug\Finally_project.Home.resources
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project\Code\Winform\Finally_project\Finally_project\obj\Debug\Finally_project.Properties.Resources.resources
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project\Code\Winform\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.GenerateResource.cache
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project\Code\Winform\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.CoreCompileInputs.cache
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project\Code\Winform\Finally_project\Finally_project\obj\Debug\Finally_project.exe
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project\Code\Winform\Finally_project\Finally_project\obj\Debug\Finally_project.pdb
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project\Code\Winform\Finally_project\Finally_project\obj\Debug\Finally_project.ClientForm.resources
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project\Code\Winform\Finally_project\Finally_project\obj\Debug\Finally_project.HomeForm.resources
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project\Code\Winform\Finally_project\Finally_project\obj\Debug\Finally_project.OrderForm.resources
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project\Code\Winform\Finally_project\Finally_project\obj\Debug\Finally_project.SettingForm.resources
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project\Code\Winform\Finally_project\Finally_project\obj\Debug\Finally_project.ProductForm.resources
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project\Code\Winform\Finally_project\Finally_project\bin\Debug\EntityFramework.dll
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project\Code\Winform\Finally_project\Finally_project\bin\Debug\EntityFramework.SqlServer.dll
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project\Code\Winform\Finally_project\Finally_project\bin\Debug\EntityFramework.xml
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project\Code\Winform\Finally_project\Finally_project\bin\Debug\EntityFramework.SqlServer.xml
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project\Code\Winform\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.CopyComplete
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project (1)\Finally_project\bin\Debug\Finally_project.exe.config
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project (1)\Finally_project\bin\Debug\Finally_project.exe
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project (1)\Finally_project\bin\Debug\Finally_project.pdb
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project (1)\Finally_project\bin\Debug\EntityFramework.dll
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project (1)\Finally_project\bin\Debug\EntityFramework.SqlServer.dll
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project (1)\Finally_project\bin\Debug\EntityFramework.xml
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project (1)\Finally_project\bin\Debug\EntityFramework.SqlServer.xml
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project (1)\Finally_project\obj\Debug\Finally_project.csproj.AssemblyReference.cache
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project (1)\Finally_project\obj\Debug\Finally_project.csproj.SuggestedBindingRedirects.cache
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project (1)\Finally_project\obj\Debug\Finally_project.ClientForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project (1)\Finally_project\obj\Debug\Finally_project.Home.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project (1)\Finally_project\obj\Debug\Finally_project.HomeForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project (1)\Finally_project\obj\Debug\Finally_project.LoginForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project (1)\Finally_project\obj\Debug\Finally_project.OrderForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project (1)\Finally_project\obj\Debug\Finally_project.ProductForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project (1)\Finally_project\obj\Debug\Finally_project.Properties.Resources.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project (1)\Finally_project\obj\Debug\Finally_project.RegisterForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project (1)\Finally_project\obj\Debug\Finally_project.SettingForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project (1)\Finally_project\obj\Debug\Finally_project.csproj.GenerateResource.cache
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project (1)\Finally_project\obj\Debug\Finally_project.csproj.CoreCompileInputs.cache
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project (1)\Finally_project\obj\Debug\Finally_project.csproj.CopyComplete
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project (1)\Finally_project\obj\Debug\Finally_project.exe
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project (1)\Finally_project\obj\Debug\Finally_project.pdb
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project (1)\Finally_project\obj\Debug\Finally_project.AddOrderForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project (1)\Finally_project\obj\Debug\Finally_project.AddClientForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project\Finally_project\bin\Debug\Finally_project.exe.config
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project\Finally_project\bin\Debug\Finally_project.exe
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project\Finally_project\bin\Debug\Finally_project.pdb
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project\Finally_project\bin\Debug\EntityFramework.dll
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project\Finally_project\bin\Debug\EntityFramework.SqlServer.dll
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project\Finally_project\bin\Debug\EntityFramework.xml
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project\Finally_project\bin\Debug\EntityFramework.SqlServer.xml
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.AssemblyReference.cache
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.SuggestedBindingRedirects.cache
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project\Finally_project\obj\Debug\Finally_project.AddClientForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project\Finally_project\obj\Debug\Finally_project.AddOrderForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project\Finally_project\obj\Debug\Finally_project.ClientForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project\Finally_project\obj\Debug\Finally_project.Home.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project\Finally_project\obj\Debug\Finally_project.HomeForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project\Finally_project\obj\Debug\Finally_project.LoginForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project\Finally_project\obj\Debug\Finally_project.OrderForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project\Finally_project\obj\Debug\Finally_project.ProductForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project\Finally_project\obj\Debug\Finally_project.Properties.Resources.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project\Finally_project\obj\Debug\Finally_project.RegisterForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project\Finally_project\obj\Debug\Finally_project.SettingForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.GenerateResource.cache
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.CoreCompileInputs.cache
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.CopyComplete
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project\Finally_project\obj\Debug\Finally_project.exe
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_project\Finally_project\obj\Debug\Finally_project.pdb
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project\Sources\Finally_project\Finally_project\bin\Debug\Finally_project.exe.config
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project\Sources\Finally_project\Finally_project\bin\Debug\Finally_project.exe
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project\Sources\Finally_project\Finally_project\bin\Debug\Finally_project.pdb
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project\Sources\Finally_project\Finally_project\bin\Debug\EntityFramework.dll
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project\Sources\Finally_project\Finally_project\bin\Debug\EntityFramework.SqlServer.dll
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project\Sources\Finally_project\Finally_project\bin\Debug\EntityFramework.xml
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project\Sources\Finally_project\Finally_project\bin\Debug\EntityFramework.SqlServer.xml
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project\Sources\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.AssemblyReference.cache
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project\Sources\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.SuggestedBindingRedirects.cache
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project\Sources\Finally_project\Finally_project\obj\Debug\Finally_project.AddClientForm.resources
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project\Sources\Finally_project\Finally_project\obj\Debug\Finally_project.AddOrderForm.resources
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project\Sources\Finally_project\Finally_project\obj\Debug\Finally_project.ClientForm.resources
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project\Sources\Finally_project\Finally_project\obj\Debug\Finally_project.Home.resources
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project\Sources\Finally_project\Finally_project\obj\Debug\Finally_project.HomeForm.resources
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project\Sources\Finally_project\Finally_project\obj\Debug\Finally_project.LoginForm.resources
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project\Sources\Finally_project\Finally_project\obj\Debug\Finally_project.OrderForm.resources
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project\Sources\Finally_project\Finally_project\obj\Debug\Finally_project.ProductForm.resources
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project\Sources\Finally_project\Finally_project\obj\Debug\Finally_project.Properties.Resources.resources
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project\Sources\Finally_project\Finally_project\obj\Debug\Finally_project.RegisterForm.resources
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project\Sources\Finally_project\Finally_project\obj\Debug\Finally_project.SettingForm.resources
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project\Sources\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.GenerateResource.cache
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project\Sources\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.CoreCompileInputs.cache
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project\Sources\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.CopyComplete
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project\Sources\Finally_project\Finally_project\obj\Debug\Finally_project.exe
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project\Sources\Finally_project\Finally_project\obj\Debug\Finally_project.pdb
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6\Finally_project\Finally_project\bin\Debug\Finally_project.exe.config
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6\Finally_project\Finally_project\bin\Debug\Finally_project.exe
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6\Finally_project\Finally_project\bin\Debug\Finally_project.pdb
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6\Finally_project\Finally_project\bin\Debug\EntityFramework.dll
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6\Finally_project\Finally_project\bin\Debug\EntityFramework.SqlServer.dll
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6\Finally_project\Finally_project\bin\Debug\EntityFramework.xml
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6\Finally_project\Finally_project\bin\Debug\EntityFramework.SqlServer.xml
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.AssemblyReference.cache
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.SuggestedBindingRedirects.cache
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6\Finally_project\Finally_project\obj\Debug\Finally_project.AddClientForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6\Finally_project\Finally_project\obj\Debug\Finally_project.AddOrderForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6\Finally_project\Finally_project\obj\Debug\Finally_project.ClientForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6\Finally_project\Finally_project\obj\Debug\Finally_project.Home.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6\Finally_project\Finally_project\obj\Debug\Finally_project.HomeForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6\Finally_project\Finally_project\obj\Debug\Finally_project.LoginForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6\Finally_project\Finally_project\obj\Debug\Finally_project.OrderForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6\Finally_project\Finally_project\obj\Debug\Finally_project.ProductForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6\Finally_project\Finally_project\obj\Debug\Finally_project.Properties.Resources.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6\Finally_project\Finally_project\obj\Debug\Finally_project.RegisterForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6\Finally_project\Finally_project\obj\Debug\Finally_project.SettingForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.GenerateResource.cache
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.CoreCompileInputs.cache
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.CopyComplete
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6\Finally_project\Finally_project\obj\Debug\Finally_project.exe
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6\Finally_project\Finally_project\obj\Debug\Finally_project.pdb
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy\Finally_project\Finally_project\bin\Debug\Finally_project.exe.config
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy\Finally_project\Finally_project\bin\Debug\Finally_project.exe
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy\Finally_project\Finally_project\bin\Debug\Finally_project.pdb
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy\Finally_project\Finally_project\bin\Debug\EntityFramework.dll
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy\Finally_project\Finally_project\bin\Debug\EntityFramework.SqlServer.dll
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy\Finally_project\Finally_project\bin\Debug\EntityFramework.xml
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy\Finally_project\Finally_project\bin\Debug\EntityFramework.SqlServer.xml
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.AssemblyReference.cache
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.SuggestedBindingRedirects.cache
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy\Finally_project\Finally_project\obj\Debug\Finally_project.AddClientForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy\Finally_project\Finally_project\obj\Debug\Finally_project.AddOrderForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy\Finally_project\Finally_project\obj\Debug\Finally_project.ClientForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy\Finally_project\Finally_project\obj\Debug\Finally_project.Home.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy\Finally_project\Finally_project\obj\Debug\Finally_project.HomeForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy\Finally_project\Finally_project\obj\Debug\Finally_project.LoginForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy\Finally_project\Finally_project\obj\Debug\Finally_project.OrderForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy\Finally_project\Finally_project\obj\Debug\Finally_project.ProductForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy\Finally_project\Finally_project\obj\Debug\Finally_project.Properties.Resources.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy\Finally_project\Finally_project\obj\Debug\Finally_project.RegisterForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy\Finally_project\Finally_project\obj\Debug\Finally_project.SettingForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.GenerateResource.cache
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.CoreCompileInputs.cache
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.CopyComplete
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy\Finally_project\Finally_project\obj\Debug\Finally_project.exe
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy\Finally_project\Finally_project\obj\Debug\Finally_project.pdb
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_1_6 - Copy\Finally_project\Finally_project\bin\Debug\Finally_project.exe.config
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_1_6 - Copy\Finally_project\Finally_project\bin\Debug\Finally_project.exe
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_1_6 - Copy\Finally_project\Finally_project\bin\Debug\Finally_project.pdb
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_1_6 - Copy\Finally_project\Finally_project\bin\Debug\EntityFramework.dll
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_1_6 - Copy\Finally_project\Finally_project\bin\Debug\EntityFramework.SqlServer.dll
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_1_6 - Copy\Finally_project\Finally_project\bin\Debug\EntityFramework.xml
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_1_6 - Copy\Finally_project\Finally_project\bin\Debug\EntityFramework.SqlServer.xml
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_1_6 - Copy\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.AssemblyReference.cache
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_1_6 - Copy\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.SuggestedBindingRedirects.cache
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_1_6 - Copy\Finally_project\Finally_project\obj\Debug\Finally_project.AddClientForm.resources
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_1_6 - Copy\Finally_project\Finally_project\obj\Debug\Finally_project.AddOrderForm.resources
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_1_6 - Copy\Finally_project\Finally_project\obj\Debug\Finally_project.ClientForm.resources
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_1_6 - Copy\Finally_project\Finally_project\obj\Debug\Finally_project.Home.resources
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_1_6 - Copy\Finally_project\Finally_project\obj\Debug\Finally_project.HomeForm.resources
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_1_6 - Copy\Finally_project\Finally_project\obj\Debug\Finally_project.LoginForm.resources
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_1_6 - Copy\Finally_project\Finally_project\obj\Debug\Finally_project.OrderForm.resources
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_1_6 - Copy\Finally_project\Finally_project\obj\Debug\Finally_project.ProductForm.resources
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_1_6 - Copy\Finally_project\Finally_project\obj\Debug\Finally_project.Properties.Resources.resources
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_1_6 - Copy\Finally_project\Finally_project\obj\Debug\Finally_project.RegisterForm.resources
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_1_6 - Copy\Finally_project\Finally_project\obj\Debug\Finally_project.SettingForm.resources
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_1_6 - Copy\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.GenerateResource.cache
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_1_6 - Copy\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.CoreCompileInputs.cache
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_1_6 - Copy\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.CopyComplete
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_1_6 - Copy\Finally_project\Finally_project\obj\Debug\Finally_project.exe
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_1_6 - Copy\Finally_project\Finally_project\obj\Debug\Finally_project.pdb
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_1_6 - Copy\Finally_project\Finally_project\obj\Debug\Finally_project.MotifyAccount.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy (1)\Finally_project\Finally_project\bin\Debug\Finally_project.exe.config
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy (1)\Finally_project\Finally_project\bin\Debug\Finally_project.exe
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy (1)\Finally_project\Finally_project\bin\Debug\Finally_project.pdb
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy (1)\Finally_project\Finally_project\bin\Debug\EntityFramework.dll
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy (1)\Finally_project\Finally_project\bin\Debug\EntityFramework.SqlServer.dll
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy (1)\Finally_project\Finally_project\bin\Debug\EntityFramework.xml
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy (1)\Finally_project\Finally_project\bin\Debug\EntityFramework.SqlServer.xml
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy (1)\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.AssemblyReference.cache
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy (1)\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.SuggestedBindingRedirects.cache
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy (1)\Finally_project\Finally_project\obj\Debug\Finally_project.AddClientForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy (1)\Finally_project\Finally_project\obj\Debug\Finally_project.AddOrderForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy (1)\Finally_project\Finally_project\obj\Debug\Finally_project.ClientForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy (1)\Finally_project\Finally_project\obj\Debug\Finally_project.Home.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy (1)\Finally_project\Finally_project\obj\Debug\Finally_project.HomeForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy (1)\Finally_project\Finally_project\obj\Debug\Finally_project.LoginForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy (1)\Finally_project\Finally_project\obj\Debug\Finally_project.OrderForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy (1)\Finally_project\Finally_project\obj\Debug\Finally_project.ProductForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy (1)\Finally_project\Finally_project\obj\Debug\Finally_project.SettingForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy (1)\Finally_project\Finally_project\obj\Debug\Finally_project.Properties.Resources.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy (1)\Finally_project\Finally_project\obj\Debug\Finally_project.RegisterForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy (1)\Finally_project\Finally_project\obj\Debug\Finally_project.MotifyAccount.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy (1)\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.GenerateResource.cache
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy (1)\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.CoreCompileInputs.cache
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy (1)\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.CopyComplete
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy (1)\Finally_project\Finally_project\obj\Debug\Finally_project.exe
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_1_6 - Copy (1)\Finally_project\Finally_project\obj\Debug\Finally_project.pdb
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6\Finally_project\Finally_project\bin\Debug\Finally_project.exe.config
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6\Finally_project\Finally_project\bin\Debug\Finally_project.exe
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6\Finally_project\Finally_project\bin\Debug\Finally_project.pdb
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6\Finally_project\Finally_project\bin\Debug\EntityFramework.dll
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6\Finally_project\Finally_project\bin\Debug\EntityFramework.SqlServer.dll
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6\Finally_project\Finally_project\bin\Debug\EntityFramework.xml
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6\Finally_project\Finally_project\bin\Debug\EntityFramework.SqlServer.xml
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.AssemblyReference.cache
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.SuggestedBindingRedirects.cache
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6\Finally_project\Finally_project\obj\Debug\Finally_project.AddClientForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6\Finally_project\Finally_project\obj\Debug\Finally_project.AddOrderForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6\Finally_project\Finally_project\obj\Debug\Finally_project.ClientForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6\Finally_project\Finally_project\obj\Debug\Finally_project.Home.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6\Finally_project\Finally_project\obj\Debug\Finally_project.HomeForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6\Finally_project\Finally_project\obj\Debug\Finally_project.LoginForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6\Finally_project\Finally_project\obj\Debug\Finally_project.OrderForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6\Finally_project\Finally_project\obj\Debug\Finally_project.ProductForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6\Finally_project\Finally_project\obj\Debug\Finally_project.SettingForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6\Finally_project\Finally_project\obj\Debug\Finally_project.Properties.Resources.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6\Finally_project\Finally_project\obj\Debug\Finally_project.RegisterForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6\Finally_project\Finally_project\obj\Debug\Finally_project.MotifyAccount.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.GenerateResource.cache
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.CoreCompileInputs.cache
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.CopyComplete
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6\Finally_project\Finally_project\obj\Debug\Finally_project.exe
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6\Finally_project\Finally_project\obj\Debug\Finally_project.pdb
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_2_6\Finally_project\Finally_project\bin\Debug\Finally_project.exe.config
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_2_6\Finally_project\Finally_project\bin\Debug\Finally_project.exe
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_2_6\Finally_project\Finally_project\bin\Debug\Finally_project.pdb
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_2_6\Finally_project\Finally_project\bin\Debug\EntityFramework.dll
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_2_6\Finally_project\Finally_project\bin\Debug\EntityFramework.SqlServer.dll
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_2_6\Finally_project\Finally_project\bin\Debug\EntityFramework.xml
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_2_6\Finally_project\Finally_project\bin\Debug\EntityFramework.SqlServer.xml
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_2_6\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.AssemblyReference.cache
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_2_6\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.SuggestedBindingRedirects.cache
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_2_6\Finally_project\Finally_project\obj\Debug\Finally_project.AddClientForm.resources
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_2_6\Finally_project\Finally_project\obj\Debug\Finally_project.AddOrderForm.resources
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_2_6\Finally_project\Finally_project\obj\Debug\Finally_project.ClientForm.resources
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_2_6\Finally_project\Finally_project\obj\Debug\Finally_project.Home.resources
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_2_6\Finally_project\Finally_project\obj\Debug\Finally_project.HomeForm.resources
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_2_6\Finally_project\Finally_project\obj\Debug\Finally_project.LoginForm.resources
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_2_6\Finally_project\Finally_project\obj\Debug\Finally_project.OrderForm.resources
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_2_6\Finally_project\Finally_project\obj\Debug\Finally_project.ProductForm.resources
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_2_6\Finally_project\Finally_project\obj\Debug\Finally_project.SettingForm.resources
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_2_6\Finally_project\Finally_project\obj\Debug\Finally_project.Properties.Resources.resources
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_2_6\Finally_project\Finally_project\obj\Debug\Finally_project.RegisterForm.resources
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_2_6\Finally_project\Finally_project\obj\Debug\Finally_project.MotifyAccount.resources
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_2_6\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.GenerateResource.cache
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_2_6\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.CoreCompileInputs.cache
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_2_6\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.CopyComplete
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_2_6\Finally_project\Finally_project\obj\Debug\Finally_project.exe
+E:\Năm 2\Học kỳ 2\Lập trình WinForm\Finally_Project_2_6\Finally_project\Finally_project\obj\Debug\Finally_project.pdb
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6 (1)\Finally_project\Finally_project\bin\Debug\Finally_project.exe.config
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6 (1)\Finally_project\Finally_project\bin\Debug\Finally_project.exe
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6 (1)\Finally_project\Finally_project\bin\Debug\Finally_project.pdb
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6 (1)\Finally_project\Finally_project\bin\Debug\EntityFramework.dll
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6 (1)\Finally_project\Finally_project\bin\Debug\EntityFramework.SqlServer.dll
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6 (1)\Finally_project\Finally_project\bin\Debug\EntityFramework.xml
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6 (1)\Finally_project\Finally_project\bin\Debug\EntityFramework.SqlServer.xml
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6 (1)\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.AssemblyReference.cache
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6 (1)\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.SuggestedBindingRedirects.cache
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6 (1)\Finally_project\Finally_project\obj\Debug\Finally_project.AddClientForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6 (1)\Finally_project\Finally_project\obj\Debug\Finally_project.AddOrderForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6 (1)\Finally_project\Finally_project\obj\Debug\Finally_project.ClientForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6 (1)\Finally_project\Finally_project\obj\Debug\Finally_project.Home.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6 (1)\Finally_project\Finally_project\obj\Debug\Finally_project.HomeForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6 (1)\Finally_project\Finally_project\obj\Debug\Finally_project.LoginForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6 (1)\Finally_project\Finally_project\obj\Debug\Finally_project.OrderForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6 (1)\Finally_project\Finally_project\obj\Debug\Finally_project.ProductForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6 (1)\Finally_project\Finally_project\obj\Debug\Finally_project.SettingForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6 (1)\Finally_project\Finally_project\obj\Debug\Finally_project.Properties.Resources.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6 (1)\Finally_project\Finally_project\obj\Debug\Finally_project.RegisterForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6 (1)\Finally_project\Finally_project\obj\Debug\Finally_project.MotifyAccount.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6 (1)\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.GenerateResource.cache
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6 (1)\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.CoreCompileInputs.cache
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6 (1)\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.CopyComplete
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6 (1)\Finally_project\Finally_project\obj\Debug\Finally_project.exe
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_2_6 (1)\Finally_project\Finally_project\obj\Debug\Finally_project.pdb
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_4_6\Finally_project\Finally_project\bin\Debug\Finally_project.exe.config
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_4_6\Finally_project\Finally_project\bin\Debug\Finally_project.exe
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_4_6\Finally_project\Finally_project\bin\Debug\Finally_project.pdb
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_4_6\Finally_project\Finally_project\bin\Debug\EntityFramework.dll
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_4_6\Finally_project\Finally_project\bin\Debug\EntityFramework.SqlServer.dll
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_4_6\Finally_project\Finally_project\bin\Debug\EntityFramework.xml
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_4_6\Finally_project\Finally_project\bin\Debug\EntityFramework.SqlServer.xml
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_4_6\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.AssemblyReference.cache
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_4_6\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.SuggestedBindingRedirects.cache
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_4_6\Finally_project\Finally_project\obj\Debug\Finally_project.AddClientForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_4_6\Finally_project\Finally_project\obj\Debug\Finally_project.AddOrderForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_4_6\Finally_project\Finally_project\obj\Debug\Finally_project.ClientForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_4_6\Finally_project\Finally_project\obj\Debug\Finally_project.Home.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_4_6\Finally_project\Finally_project\obj\Debug\Finally_project.LoginForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_4_6\Finally_project\Finally_project\obj\Debug\Finally_project.OrderForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_4_6\Finally_project\Finally_project\obj\Debug\Finally_project.ProductForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_4_6\Finally_project\Finally_project\obj\Debug\Finally_project.SettingForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_4_6\Finally_project\Finally_project\obj\Debug\Finally_project.Properties.Resources.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_4_6\Finally_project\Finally_project\obj\Debug\Finally_project.RegisterForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_4_6\Finally_project\Finally_project\obj\Debug\Finally_project.MotifyAccount.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_4_6\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.GenerateResource.cache
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_4_6\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.CoreCompileInputs.cache
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_4_6\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.CopyComplete
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_4_6\Finally_project\Finally_project\obj\Debug\Finally_project.exe
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_4_6\Finally_project\Finally_project\obj\Debug\Finally_project.pdb
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_4_6\Finally_project\Finally_project\obj\Debug\Finally_project.InputOrderForm.resources
+D:\Windows Form\Đồ án cuối kỳ\FormDangNhap\Finally_Project_4_6\Finally_project\Finally_project\obj\Debug\Finally_project.AddinputOrderForm.resources
+D:\Windows Form\Đồ án cuối kỳ\Finally_Project_4_6\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.AssemblyReference.cache
+D:\Windows Form\Đồ án cuối kỳ\Finally_Project_4_6\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.SuggestedBindingRedirects.cache
+D:\Windows Form\Đồ án cuối kỳ\Finally_Project_4_6\Finally_project\Finally_project\obj\Debug\Finally_project.AddinputOrderForm.resources
+D:\Windows Form\Đồ án cuối kỳ\Finally_Project_4_6\Finally_project\Finally_project\obj\Debug\Finally_project.AddClientForm.resources
+D:\Windows Form\Đồ án cuối kỳ\Finally_Project_4_6\Finally_project\Finally_project\obj\Debug\Finally_project.AddOrderForm.resources
+D:\Windows Form\Đồ án cuối kỳ\Finally_Project_4_6\Finally_project\Finally_project\obj\Debug\Finally_project.ClientForm.resources
+D:\Windows Form\Đồ án cuối kỳ\Finally_Project_4_6\Finally_project\Finally_project\obj\Debug\Finally_project.Home.resources
+D:\Windows Form\Đồ án cuối kỳ\Finally_Project_4_6\Finally_project\Finally_project\obj\Debug\Finally_project.InputOrderForm.resources
+D:\Windows Form\Đồ án cuối kỳ\Finally_Project_4_6\Finally_project\Finally_project\obj\Debug\Finally_project.LoginForm.resources
+D:\Windows Form\Đồ án cuối kỳ\Finally_Project_4_6\Finally_project\Finally_project\obj\Debug\Finally_project.OrderForm.resources
+D:\Windows Form\Đồ án cuối kỳ\Finally_Project_4_6\Finally_project\Finally_project\obj\Debug\Finally_project.ProductForm.resources
+D:\Windows Form\Đồ án cuối kỳ\Finally_Project_4_6\Finally_project\Finally_project\obj\Debug\Finally_project.SettingForm.resources
+D:\Windows Form\Đồ án cuối kỳ\Finally_Project_4_6\Finally_project\Finally_project\obj\Debug\Finally_project.Properties.Resources.resources
+D:\Windows Form\Đồ án cuối kỳ\Finally_Project_4_6\Finally_project\Finally_project\obj\Debug\Finally_project.RegisterForm.resources
+D:\Windows Form\Đồ án cuối kỳ\Finally_Project_4_6\Finally_project\Finally_project\obj\Debug\Finally_project.MotifyAccount.resources
+D:\Windows Form\Đồ án cuối kỳ\Finally_Project_4_6\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.GenerateResource.cache
+D:\Windows Form\Đồ án cuối kỳ\Finally_Project_4_6\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.CoreCompileInputs.cache
+D:\Windows Form\Đồ án cuối kỳ\Finally_Project_4_6\Finally_project\Finally_project\obj\Debug\Finally_project.exe
+D:\Windows Form\Đồ án cuối kỳ\Finally_Project_4_6\Finally_project\Finally_project\obj\Debug\Finally_project.pdb
+D:\Windows Form\Đồ án cuối kỳ\Finally_Project_4_6\Finally_project\Finally_project\bin\Debug\Finally_project.exe.config
+D:\Windows Form\Đồ án cuối kỳ\Finally_Project_4_6\Finally_project\Finally_project\bin\Debug\Finally_project.exe
+D:\Windows Form\Đồ án cuối kỳ\Finally_Project_4_6\Finally_project\Finally_project\bin\Debug\Finally_project.pdb
+D:\Windows Form\Đồ án cuối kỳ\Finally_Project_4_6\Finally_project\Finally_project\bin\Debug\EntityFramework.dll
+D:\Windows Form\Đồ án cuối kỳ\Finally_Project_4_6\Finally_project\Finally_project\bin\Debug\EntityFramework.SqlServer.dll
+D:\Windows Form\Đồ án cuối kỳ\Finally_Project_4_6\Finally_project\Finally_project\bin\Debug\EntityFramework.xml
+D:\Windows Form\Đồ án cuối kỳ\Finally_Project_4_6\Finally_project\Finally_project\bin\Debug\EntityFramework.SqlServer.xml
+D:\Windows Form\Đồ án cuối kỳ\Finally_Project_4_6\Finally_project\Finally_project\obj\Debug\Finally_project.csproj.CopyComplete
+D:\Windows Form\Đồ án cuối kỳ\Finally_Project_4_6\Finally_project\Finally_project\bin\Debug\BouncyCastle.Crypto.dll
+D:\Windows Form\Đồ án cuối kỳ\Finally_Project_4_6\Finally_project\Finally_project\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Windows Form\Đồ án cuối kỳ\Finally_Project_4_6\Finally_project\Finally_project\bin\Debug\NPOI.dll
+D:\Windows Form\Đồ án cuối kỳ\Finally_Project_4_6\Finally_project\Finally_project\bin\Debug\NPOI.OOXML.dll
+D:\Windows Form\Đồ án cuối kỳ\Finally_Project_4_6\Finally_project\Finally_project\bin\Debug\NPOI.OpenXml4Net.dll
+D:\Windows Form\Đồ án cuối kỳ\Finally_Project_4_6\Finally_project\Finally_project\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\Windows Form\Đồ án cuối kỳ\Finally_Project_4_6\Finally_project\Finally_project\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\Windows Form\Đồ án cuối kỳ\Finally_Project_4_6\Finally_project\Finally_project\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\Windows Form\Đồ án cuối kỳ\Finally_Project_4_6\Finally_project\Finally_project\bin\Debug\NPOI.pdb
+D:\Windows Form\Đồ án cuối kỳ\Finally_Project_4_6\Finally_project\Finally_project\bin\Debug\NPOI.xml
+D:\Windows Form\Đồ án cuối kỳ\Finally_Project_4_6\Finally_project\Finally_project\bin\Debug\NPOI.OOXML.pdb
+D:\Windows Form\Đồ án cuối kỳ\Finally_Project_4_6\Finally_project\Finally_project\bin\Debug\NPOI.OOXML.xml
+D:\Windows Form\Đồ án cuối kỳ\Finally_Project_4_6\Finally_project\Finally_project\bin\Debug\NPOI.OpenXml4Net.pdb
+D:\Windows Form\Đồ án cuối kỳ\Finally_Project_4_6\Finally_project\Finally_project\bin\Debug\NPOI.OpenXml4Net.xml
+D:\Windows Form\Đồ án cuối kỳ\Finally_Project_4_6\Finally_project\Finally_project\bin\Debug\NPOI.OpenXmlFormats.pdb
+D:\Windows Form\Đồ án cuối kỳ\Finally_Project_4_6\Finally_project\Finally_project\obj\Debug\Finally_project.ProductsForm.resources
+D:\Windows Form\Đồ án cuối kỳ\Finally_Project_4_6\Finally_project\Finally_project\bin\Debug\itextsharp.dll
+D:\Windows Form\Đồ án cuối kỳ\Finally_Project_4_6\Finally_project\Finally_project\bin\Debug\itextsharp.xml
